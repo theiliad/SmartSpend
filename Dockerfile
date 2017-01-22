@@ -1,4 +1,4 @@
-FROM node:latest
+FROM cycleplatform/nodejs:latest
 
 MAINTAINER Eliad Moosavi
 
